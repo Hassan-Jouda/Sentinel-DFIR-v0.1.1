@@ -11,7 +11,7 @@
 
 The long-term vision is to bring together **endpoint monitoring, Mini-SOC workflows, threat hunting, incident response, and digital forensics** in one interface. Those capabilities are **goals**, not claims about this starter version.
 
-**بالعربية:** Sentinel DFIR مشروع تجريبي لمراقبة أمن أجهزة Windows وتحليل الأحداث والأدلة الرقمية. النسخة الحالية محدودة وتحتاج إلى بناء واختبار محلي، ولا تُعد مضاد فيروسات تجاريًا أو نظام EDR جاهزًا للإنتاج.
+**بالعربية:* Sentinel DFIR مشروع تجريبي لمراقبة أمن أجهزة Windows وتحليل الأحداث والأدلة الرقمية. النسخة الحالية محدودة وتحتاج إلى بناء واختبار محلي، ولا تُعد مضاد فيروسات تجاريًا أو نظام EDR جاهزًا للإنتاج.
 
 ## Current features — v0.1 starter
 
@@ -225,3 +225,5 @@ Educational starter project. **No explicit open-source license has been specifie
 ---
 
 **Sentinel DFIR** — *Monitor. Detect. Investigate. Respond.*
+## DARK STORM
+

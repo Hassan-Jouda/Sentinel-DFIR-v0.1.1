@@ -1,0 +1,15 @@
+﻿**/bin/
+**/obj/
+.vs/
+.vscode/
+dist/
+publish/
+*.user
+*.suo
+*.log
+*.jsonl
+*.pdb
+TestResults/
+*.zip
+*.7z
+*.rar
